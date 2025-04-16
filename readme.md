@@ -1,6 +1,8 @@
+# Introduction
+
 1. 首先运行 data_organize.ipynb 下载数据并整理
-2. 训练代码 train.ipynb
-3. 测试代码 demo.ipynb
+3. 训练代码 train.ipynb
+4. 测试代码 demo.ipynb
 
 # input
 
